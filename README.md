@@ -1,7 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SHUBHAM&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SHUBHAM&fontSize=75&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=2&animation=fadeIn" width="100%"/>
 
+<div align="center">
 
+### Full Stack Developer | AI & LLM | B.Tech EIE @ NIT Agartala
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-33b135362)
+
+</div>
 ---
 
 ## 👋 About Me
