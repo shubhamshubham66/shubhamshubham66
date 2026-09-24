@@ -1,8 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shubham+👋;Full+Stack+Developer;AI+%26+LLM+Enthusiast)](https://github.com/shubhamshubham66)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SHUBHAM&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=2&animation=fadeIn" width="100%"/>
 
 
 
