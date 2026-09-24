@@ -3,9 +3,7 @@
 <div align="center">
 
 ### Full Stack Developer | AI & LLM | B.Tech EIE @ NIT Agartala
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/shubham-33b135362
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-33b135362)
 </div>
 
 ---
