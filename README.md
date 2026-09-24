@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Shubham&fontSize=50&fontAlignY=40" width="100%"/>
-
 <div align="center">
 
-### Full Stack Developer | AI & LLM | B.Tech EIE @ NIT Agartala
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-33b135362)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shubham+👋;Full+Stack+Developer;AI+%26+LLM+Enthusiast)](https://github.com/shubhamshubham66)
+
 </div>
+
+
 
 ---
 
