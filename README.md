@@ -65,4 +65,13 @@
 
 <img src="https://streak-stats.demolab.com?user=shubhamshubham66" />
 
+
+</div>
+
+## 🧩 Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shubham_8858?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/shubham_8858)
+
 </div>
