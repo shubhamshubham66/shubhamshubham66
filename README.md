@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SHUBHAM&fontSize=75&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=2&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1a1a2e&height=200&section=header&text=SHUBHAM&fontSize=75&fontColor=ffffff&fontAlignY=40&stroke=000000&strokeWidth=2&animation=fadeIn" width="100%"/>
 <div align="center">
 
 ### Full Stack Developer | AI & LLM | B.Tech EIE @ NIT Agartala
